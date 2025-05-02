@@ -1,0 +1,19 @@
+site_name: UnScene-AutoDrive
+site_url: https://songruiqi.github.io/UnScene-AutoDrive/
+repo_url: https://github.com/songruiqi/UnScene-AutoDrive
+theme:
+  name: material
+  logo: assets/logo.png
+  favicon: assets/favicon.ico
+  palette:
+    scheme: default
+    primary: blue
+    accent: amber
+nav:
+  - Home: index.md
+  - Projects:
+      - UnsOcc: projects/unsocc.md
+      - UnsDrive: projects/unsdrive.md
+      - UnScenes3D: projects/unscenes3d.md
+  - Benchmark: benchmark.md
+  - Citation: citation.md
