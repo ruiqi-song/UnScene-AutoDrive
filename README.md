@@ -6,8 +6,8 @@ UnScene-AutoDrive is a unified entry point for a collection of research projects
 
 | Project                                              | Description |
 |------------------------------------------------------|-------------|
-| [UnsOcc](https://github.com/songruiqi/UnsOcc)         | 3D semantic occupancy prediction tailored for unstructured scenes |
-| [UnsDrive](https://github.com/songruiqi/UnsDrive)    | End-to-end vision-language driven autonomous driving system |
-| [UnScene3D](https://github.com/songruiqi/UnScenes3D) | Data processing and annotation tools for unstructured driving scenarios |
+| [UnsOcc](https://github.com/ruiqi-song/UnsOcc)       | 3D semantic occupancy prediction tailored for unstructured scenes |
+| [UnsDrive](https://github.com/ruiqi-song/UnsDrive)    | End-to-end vision-language driven autonomous driving system |
+| [UnScene3D](https://github.com/ruiqi-song/UnScenes3D) | Data processing and annotation tools for unstructured driving scenarios |
 
 
